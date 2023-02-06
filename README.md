@@ -1,4 +1,4 @@
-#Budget Manager
+# Budget Manager
 https://sajadzshoki.github.io/budget-manager/
 
 # Getting Started with Create React App
